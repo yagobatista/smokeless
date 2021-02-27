@@ -1,0 +1,12 @@
+{
+  "name": "smokeless",
+  "displayName": "smokeless",
+  "expo": {
+    "name": "smokeless",
+    "slug": "smokeless",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
